@@ -10,6 +10,7 @@ This repository is for Microprocessor and Computer Architecture subject. It cont
 - GitHub
 
 ## Repository Structure
+```text
 MCA_Lab_All
 .
 ├── MCA
@@ -17,3 +18,7 @@ MCA_Lab_All
 │   ├── a2.c
 │   └── a3.c
 └── README.md
+```
+
+## Author
+Chhembi Hang Rai
