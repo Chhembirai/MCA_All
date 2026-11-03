@@ -1,0 +1,9 @@
+#ignore vscode settings
+.vscode/
+
+#ignore JSON files
+*.json
+
+#ignore compiled files and GCC output
+a[0-9]*
+!a*.c
